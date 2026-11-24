@@ -1,0 +1,4 @@
+﻿observation_id,record_id,date,material_observed,condition
+O1,A1,2026-05,未确认,待复核
+O2,A2,2026-06,石质可见,稳定
+O3,A3,2026-06,木质可见,局部腐朽

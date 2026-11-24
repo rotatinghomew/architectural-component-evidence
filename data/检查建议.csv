@@ -1,0 +1,4 @@
+﻿plan_id,building_id,record_id,priority,basis_version
+P1,B1,A1,待定,2026-04
+P2,B1,A2,常规,2026-04
+P3,B2,A3,优先,2026-04

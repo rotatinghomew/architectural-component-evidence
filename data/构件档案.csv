@@ -1,0 +1,4 @@
+﻿record_id,building_id,term,location,recorded_material,source_id
+A1,B1,梁,正厅上部,木,DOC1
+A2,B1,础,东柱下,石,DOC2
+A3,B2,柱,西廊,木,DOC3
